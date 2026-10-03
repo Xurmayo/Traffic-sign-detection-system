@@ -81,4 +81,4 @@ Results can differ slightly between runs, even with fixed seeds.
 
 ## Author
 
-[your name], Computer Vision course, 2026
+Alisher Amangeldi, Computer Vision course, 2026
